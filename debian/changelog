@@ -1,0 +1,5 @@
+fakesleep (0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #841400).
+
+ -- Free Ekanayaka <freee@debian.org>  Thu, 20 Oct 2016 08:34:09 +0000
